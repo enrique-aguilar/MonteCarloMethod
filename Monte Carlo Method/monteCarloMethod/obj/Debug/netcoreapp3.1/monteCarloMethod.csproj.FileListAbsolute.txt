@@ -1,0 +1,13 @@
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\bin\Debug\netcoreapp3.1\monteCarloMethod.exe
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\bin\Debug\netcoreapp3.1\monteCarloMethod.deps.json
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\bin\Debug\netcoreapp3.1\monteCarloMethod.runtimeconfig.json
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\bin\Debug\netcoreapp3.1\monteCarloMethod.runtimeconfig.dev.json
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\bin\Debug\netcoreapp3.1\monteCarloMethod.dll
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\bin\Debug\netcoreapp3.1\monteCarloMethod.pdb
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\obj\Debug\netcoreapp3.1\monteCarloMethod.csprojAssemblyReference.cache
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\obj\Debug\netcoreapp3.1\monteCarloMethod.AssemblyInfoInputs.cache
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\obj\Debug\netcoreapp3.1\monteCarloMethod.AssemblyInfo.cs
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\obj\Debug\netcoreapp3.1\monteCarloMethod.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\obj\Debug\netcoreapp3.1\monteCarloMethod.dll
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\obj\Debug\netcoreapp3.1\monteCarloMethod.pdb
+C:\Users\enriq\OneDrive\Desktop\MSSA\MSSA\Labs\Monte Carlo Method\monteCarloMethod\obj\Debug\netcoreapp3.1\monteCarloMethod.genruntimeconfig.cache
